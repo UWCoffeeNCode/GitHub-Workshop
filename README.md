@@ -1,4 +1,7 @@
-Tonight, we will all be contributing to an “open source” story! No programming required and have fun writing!
+# UW Coffee 'N Code GitHub Workshop
+This is a past workshop that introduces the basics of how to use GitHub to manage a project. Feel free to run through the exercise on your own time!
+
+In this workshop we will all be contributing to an “open source” story! No programming required and have fun writing!
 
 ## Story Prompt
 By some clerical error in WaterlooWorks, our protagonist got an offer from a big tech company as a Junior Software Developer. They know they are surely under-qualified, but what-the-hey, the proposition for free meals and unlimited snacks meant the offer was accepted anyways!  Write an day’s entry in their journal, as our protagonist fakes it till they make it!
